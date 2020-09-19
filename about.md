@@ -1,6 +1,5 @@
 ---
 title: About me
-published: false
 
 ---
 > "We define who we are."
