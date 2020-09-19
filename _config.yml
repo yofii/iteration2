@@ -10,13 +10,13 @@ share:            false # Turn on twitter and facebook share buttons
 links:
   - name:         Posts
     url:          /
-    external:     false
+    external:     true
   - name:         Bathokoshero
     url:          https://prajjowl.com.np/bathokoshero
     external:     true
   - name:         About me
     url:          /about
-    external:     false
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
