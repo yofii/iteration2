@@ -9,13 +9,13 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
-    url:          abanjara.com.np
+    url:          /
     external:     false
   - name:         Bathokoshero
     url:          https://prajjowl.com.np/bathokoshero
     external:     true
   - name:         About me
-    url:          abanjara.com.np/about
+    url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
