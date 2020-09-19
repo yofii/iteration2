@@ -26,4 +26,4 @@ Karkhana is an education company and a maker space. They are doing revolutionary
 
 This is the story of dots which will connect other dots. Some dots have other stories. Some dots were faded. Some dots were forgotten. In the quest for growth and purpose, I have left many dots incomplete. In this blog, I wish to connect more dots: Momo, Movies, Minimalism, Marcus Aurelius, Meditations, Memoirs.
 
-Find me on [Messenger](m.me/anojbanjara) or [Instagram](https://instagram.com/@august.pippinpaddleopsicopolis).
+Find me on [Messenger](https://m.me/anojbanjara) or [Instagram](https://instagram.com/@august.pippinpaddleopsicopolis).
