@@ -1,8 +1,8 @@
 ---
 title: About me
----
 
-Hi! I am A Banjara and its seems okay to get started.
+---
+Hi! I am A Banjara and it seems okay to get started.
 
 Kathmandu
 
