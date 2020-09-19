@@ -1,9 +1,8 @@
 ---
-title: मेराे बारेमा
+title: About me
+published: false
 
 ---
-Hi! I am A Banjara and it seems okay to get started.
-
-Kathmandu
+> "We define who we are."
 
 Find me on [Messenger](m.me/anojbanjara) or [Instagram](https://instagram.com/@august.pippinpaddleopsicopolis).
