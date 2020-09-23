@@ -19,6 +19,8 @@ As the shutdowns and lockdown continued, Sudarshan kept pushing me to read. He s
 
 **The Richest Man in Babylon** is a small book that teaches us financial knowledge with a beautiful story woven to it. The book is a book of awareness.
 
-I also read Losing My Virginity by Richard Branson. The book is adventurous. There were books that I left without finishing. I wish to read more.
+**Animal Farm,** is a nice book relevant to all readers of all age. Its unique storytelling perspective made the book full of life and questions our social norms and values.
+
+Others books I read are Outliers, Losing My Virginity.
 
 ***
