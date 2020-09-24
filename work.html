@@ -1,9 +1,6 @@
-permalink: "/work.html"
-layout: 
-
 ---
-<html>
-  <head>
+---
+<head>
     <meta content='Scribble' property='og:title' />
     <title>abanjara</title>
     <link href='{{ site.url }}/images/fav.png' rel='shortcut icon'>
@@ -14,4 +11,15 @@ layout:
     <meta content="{{ site.description }}" property='og:description' />
     <meta content="blog" property="og:type" />
   </head>
- 
+<body>
+<ul class="list pa0">
+  {% for post in site.posts %}
+  <li class="mv2">
+    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
+      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
+      {{ post.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+</body>
