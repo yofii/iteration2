@@ -17,14 +17,5 @@ layout: null
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
     {% endfor %}
-    {% for work in site.works limit:10 %}
-      <item>
-        <title>{{ work.title }}</title>
-        <description>{{ work.content | xml_escape | replace: 'javascript||' | replace: 'shell||' | replace: 'ruby||' | replace: 'html||' }}</description>
-        <pubDate>{{ work.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}{{ work.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ work.url }}</guid>
-      </item>
-    {% endfor %}
   </channel>
 </rss>
