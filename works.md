@@ -1,5 +1,0 @@
----
-title: works
-
----
-![](/uploads/cess-3x.png)
