@@ -26,3 +26,7 @@ permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
+permalink:        /works/:title
+defaults:
+  - values:
+      layout: "default"
