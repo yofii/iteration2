@@ -10,14 +10,8 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
-  create: all
-<<<<<<< HEAD
-=======
-- type: jekyll-posts
   label: works
   create: all
->>>>>>> parent of 18515c4... Update setting.yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
