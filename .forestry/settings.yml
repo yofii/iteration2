@@ -12,9 +12,6 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: jekyll-works
-  label: Works
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
