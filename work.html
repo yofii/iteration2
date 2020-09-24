@@ -1,13 +1,17 @@
----
----
+permalink: "/work.html"
+layout: 
 
-<ul class="list pa0">
-  {% for post in site.posts %}
-  <li class="mv2">
-    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
-      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
-      {{ post.title }}
-    </a>
-  </li>
-  {% endfor %}
-</ul>
+---
+<html>
+  <head>
+    <meta content='Scribble' property='og:title' />
+    <title>abanjara</title>
+    <link href='{{ site.url }}/images/fav.png' rel='shortcut icon'>
+    <link rel="stylesheet" href="{{ site.url }}/stylesheets/style.css"/>
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <meta content='{{ site.url }}' property='og:url' />
+    <meta content="{{ site.description }}" property='og:description' />
+    <meta content="blog" property="og:type" />
+  </head>
+ 
