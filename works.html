@@ -1,0 +1,16 @@
+---
+---
+
+<ul class="list pa0">
+  {% for work in site.works %}
+  <li class="mv2">
+    <a
+      href="{{ site.url }}{{ work.url }}"
+      class="db pv1 link blue hover-mid-gray"
+    >
+      <time class="fr silver ttu">{{ work.date | date_to_string }} </time>
+      {{ work.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
