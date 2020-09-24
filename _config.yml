@@ -11,8 +11,8 @@ links:
   - name:         Posts
     url:          https://abanjara.com.np
     external:     true
-  - name:         Work
-    url:          /work
+  - name:         Works
+    url:          /works
     external:     true
   - name:         Bathokoshero
     url:          https://prajjowl.com.np/bathokoshero
