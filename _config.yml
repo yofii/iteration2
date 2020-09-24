@@ -15,7 +15,7 @@ links:
     url:          /works
     external:     true
   - name:         Bathokoshero
-    url:          https://prajjowl.com.np/bathokoshero
+    url:          https://prajjowl.com.np/bathokoshero {:target="_blank"}
     external:     true
   - name:         About me
     url:          /about
