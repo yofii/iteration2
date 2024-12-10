@@ -10,7 +10,7 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: works
   create: all
 upload_dir: uploads
 public_path: "/uploads"

@@ -1,4 +1,4 @@
-{% assign is_post = page.date %}
+{% assign is_stories = page.date %}
 <!doctype>
 <html lang="en">
   <head>
@@ -10,9 +10,10 @@
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     <header class="tc mt4">
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/scribble.png" alt="Home" width="53" height="59">
+        <img src="{{ site.url }}/images/peace.png" alt="Home" width="53" height="53">
       </a>
       <p>- Namaste! -</p>
+     
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       <nav class="bb b--light-gray pv4 tc" aria-label="Main">
@@ -33,7 +34,7 @@
               {% endif %}
               {{ page.title }}
             </h1>
-            {% if is_post and site.share %}
+            {% if is_stories and site.share %}
               <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
               <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
               <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" data-action="like"></div>
